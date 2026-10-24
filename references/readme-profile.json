@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 227｜Embroidered Mission Patch: condenses a photo's subject and meaning into one machine-embroidered mission patch — a round, shield, rounded-rectangle or other stable badge outline with the simplified subject at its centre, real twill backing, raised satin-stitch lines and lettering, fill-stitched colour areas, a thick rounded merrowed border and visible thread direction — plus a few short institutional-style labels such as a name, code, status word or coordinate note, in bright clean colours lifted from the photo (sky blue, lake teal, fresh green, warm yellow, coral, peach), kept medium-small with generous warm-white space, especially above. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-227 or asks for embroidered patches, mission badges or technical woven-badge designs from a photo.",
+  "short_description": "刺绣任务章：把照片压缩成一枚带锁边和缎面绣字的机绣任务章",
+  "zh-CN": {
+    "name": "刺绣任务章",
+    "tagline": "把照片压缩成一枚带锁边、缎面绣字和简短编号的机绣任务章。",
+    "look": "照片主体被提炼成简洁的符号，放在一枚机绣布章正中，布章是圆形、盾形、圆角矩形之类稳定的任务章轮廓。看得见斜纹布底、凸起的缎面绣线条和文字、填充绣的大色块、厚实圆润的锁边，以及真实的线迹方向和轻微厚度。章上只有几条短信息，像名称、编号、状态词或坐标式注记，用工业识别式的排版。颜色取照片里最明亮的部分并提纯，如天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉。布章中等偏小，四周和上方留出充足的暖白空间。",
+    "traits": [
+      "机绣布章",
+      "缎面绣",
+      "锁边包边",
+      "工业识别排版",
+      "明快治愈配色",
+      "暖白留白"
+    ],
+    "good": [
+      "轮廓清楚、能做成徽记的主体：一座山、一只动物、一艘船、一辆车",
+      "带探索或纪念意味的照片：登山、露营、潜水、观星、一次旅行",
+      "想做团队徽章、活动纪念章或收藏布章设计的照片"
+    ],
+    "poor": [
+      "需要大量文字或说明的内容，布章上只放得下几条短信息",
+      "依赖细腻光影、渐变和质感的照片：人像特写、雾景、夜景",
+      "想要复刻真实机构或品牌徽章、电商商品图或光滑矢量图标的需求"
+    ]
+  },
+  "en": {
+    "name": "Embroidered Mission Patch",
+    "tagline": "Condenses a photo into one machine-embroidered mission patch with a merrowed edge and satin-stitch lettering.",
+    "look": "Your subject is distilled into a simple emblem at the centre of a machine-embroidered patch with a stable badge outline, such as a circle, a shield or a rounded rectangle. You can see the twill backing, raised satin-stitch lines and lettering, fill-stitched blocks of colour, a thick rounded merrowed border, real thread direction and a slight thickness. The patch carries only a few short labels, like a name, a code number, a status word or a coordinate-style note, set in an industrial identification style. Colours are the brightest ones in the photo made cleaner, such as sky blue, lake teal, fresh green, warm yellow, coral and peach. The patch is medium-small, with plenty of warm white around it and especially above it.",
+    "traits": [
+      "Machine-embroidered patch",
+      "Satin stitch",
+      "Merrowed border",
+      "Technical ID typography",
+      "Bright cheerful colour",
+      "Warm white space"
+    ],
+    "good": [
+      "Subjects with a clear outline that works as an emblem: a mountain, an animal, a boat, a car",
+      "Photos with a sense of exploration or commemoration: hiking, camping, diving, stargazing, a trip",
+      "Photos you want as a team badge, an event souvenir patch or a collectable patch design"
+    ],
+    "poor": [
+      "Content that needs lots of text or explanation, since the patch fits only a few short labels",
+      "Photos that depend on delicate light, gradients and texture: portrait close-ups, misty or night scenes",
+      "Requests to copy a real organisation's or brand's badge, an e-commerce product shot or a smooth vector icon"
+    ]
+  },
+  "ja": {
+    "name": "刺繍ミッションパッチ",
+    "tagline": "写真を、縁かがりとサテン刺繍の文字、短い番号をもつ一枚の機械刺繍ミッションパッチにします。",
+    "look": "主役をシンプルな記号にし、機械刺繍のワッペンの中央に置きます。ワッペンは円形、盾形、角丸の長方形など、安定したミッションパッチの輪郭です。綾織りの台布、盛り上がったサテン刺繍の線と文字、タタミ刺繍の色面、厚く丸いメロウの縁かがり、本物の糸目の向きとわずかな厚みが見えます。パッチには名前、番号、状態を表す語、座標風の注記といった短い情報だけが、工業的な識別表示のように組まれます。色は写真でいちばん明るい色を澄ませた空色、湖の青緑、若草色、暖かい黄、コーラル、ピーチなど。パッチはやや小さめで、まわり、とくに上側に暖かな白の余白を十分に取ります。",
+    "traits": [
+      "機械刺繍ワッペン",
+      "サテン刺繍",
+      "メロウの縁かがり",
+      "工業的な識別表示",
+      "明るく癒やされる色",
+      "暖かな白の余白"
+    ],
+    "good": [
+      "輪郭がはっきりして記章にしやすい主役：山、動物、船、車",
+      "探検や記念の気配がある写真：登山、キャンプ、ダイビング、星空観察、旅",
+      "チームのワッペン、イベントの記念章、コレクション用ワッペンのデザインにしたい写真"
+    ],
+    "poor": [
+      "文字や説明をたくさん載せたい内容（パッチには短い情報が数行しか入りません）",
+      "繊細な光、グラデーション、質感が魅力の写真：顔のアップ、霧や夜の景色",
+      "実在の機関やブランドの記章の複製、通販の商品画像、なめらかなベクターアイコンを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "자수 미션 패치",
+    "tagline": "사진을 오버록 테두리와 새틴 자수 글자, 짧은 번호가 있는 기계 자수 미션 패치 한 장으로 압축합니다.",
+    "look": "주인공을 단순한 상징으로 다듬어 기계 자수 패치 한가운데에 둡니다. 패치는 원형, 방패형, 둥근 직사각형처럼 안정된 미션 패치 윤곽입니다. 능직 바탕천, 도톰하게 솟은 새틴 자수 선과 글자, 채움 자수로 메운 색면, 두툼하고 둥근 오버록 테두리, 실제 실땀 방향과 약간의 두께가 보입니다. 패치에는 이름, 번호, 상태어, 좌표식 주석 같은 짧은 정보만 산업용 식별 표기처럼 들어갑니다. 색은 사진에서 가장 밝은 색을 맑게 다듬은 하늘색, 호수 청록, 연두, 따뜻한 노랑, 산호색, 복숭아색 등입니다. 패치는 중간보다 조금 작고, 주변, 특히 위쪽에 따뜻한 흰 여백을 넉넉히 둡니다.",
+    "traits": [
+      "기계 자수 패치",
+      "새틴 자수",
+      "오버록 테두리",
+      "산업용 식별 타이포",
+      "밝고 산뜻한 색",
+      "따뜻한 흰 여백"
+    ],
+    "good": [
+      "윤곽이 뚜렷해 엠블럼이 되기 쉬운 주인공: 산, 동물, 배, 자동차",
+      "탐험이나 기념의 느낌이 있는 사진: 등산, 캠핑, 다이빙, 별 보기, 여행",
+      "팀 배지, 행사 기념 패치, 소장용 패치 디자인으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "글자나 설명이 많이 필요한 내용(패치에는 짧은 정보 몇 줄만 들어갑니다)",
+      "섬세한 빛, 그러데이션, 질감에 기대는 사진: 인물 클로즈업, 안개나 밤 풍경",
+      "실제 기관이나 브랜드 배지 복제, 쇼핑몰 상품 이미지, 매끈한 벡터 아이콘을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شارة مهمة مطرّزة",
+    "tagline": "يكثّف الصورة في شارة مهمة واحدة مطرّزة آلياً بحافة ملفوفة وحروف بغرزة الساتان ورمز قصير.",
+    "look": "يُختزل العنصر الرئيسي إلى شعار بسيط في وسط شارة مطرّزة آلياً ذات حدود ثابتة كالدائرة أو الدرع أو المستطيل مستدير الزوايا. يظهر قماش التويل في الخلفية، وخطوط وحروف بارزة بغرزة الساتان، وكتل لونية بغرزة التعبئة، وحافة ملفوفة سميكة مستديرة، واتجاه الخيوط الحقيقي وسماكة خفيفة. لا تحمل الشارة إلا بضعة نصوص قصيرة، كاسم أو رقم رمزي أو كلمة حالة أو ملاحظة بصيغة إحداثيات، مصفوفة بأسلوب لوحات التعريف الصناعية. الألوان هي أكثر ألوان الصورة إشراقاً بعد تنقيتها، مثل أزرق السماء وفيروزي البحيرة والأخضر الطري والأصفر الدافئ والمرجاني والخوخي. والشارة متوسطة إلى صغيرة، يحيط بها أبيض دافئ وافر، خاصة من الأعلى.",
+    "traits": [
+      "شارة مطرّزة آلياً",
+      "غرزة الساتان",
+      "حافة ملفوفة",
+      "طباعة تعريفية صناعية",
+      "ألوان مشرقة مبهجة",
+      "فراغ أبيض دافئ"
+    ],
+    "good": [
+      "عناصر واضحة الحدود تصلح شعاراً: جبل، حيوان، قارب، سيارة",
+      "صور فيها روح الاستكشاف أو الذكرى: تسلق، تخييم، غوص، رصد النجوم، رحلة",
+      "صور تريدها شارة لفريق أو شارة تذكارية لفعالية أو تصميم شارة للاقتناء"
+    ],
+    "poor": [
+      "محتوى يحتاج إلى نص أو شرح كثير، فالشارة لا تتسع إلا لبضعة أسطر قصيرة",
+      "صور تعتمد على الضوء الرقيق والتدرجات والملمس: صور شخصية قريبة، مشاهد ضبابية أو ليلية",
+      "طلب نسخ شارة جهة أو علامة حقيقية أو صورة منتج لمتجر إلكتروني أو أيقونة متجهية ناعمة"
+    ]
+  }
+}
